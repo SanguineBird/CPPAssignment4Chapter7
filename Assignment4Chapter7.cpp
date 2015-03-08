@@ -21,7 +21,7 @@ class Counter{
   private:
     int count;
     static int incDec;
-}
+};
 
 int Counter::incDec = 0;
 
